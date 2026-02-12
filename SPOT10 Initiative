@@ -1,9 +1,11 @@
-## 🌌Project: SPOT10 Initiative | Framework: The Rainbow Road
-Current focus: Technical integration and architectural alignment within the The Rainbow Road operational framework.
+🌌 Project: SPOT10 Initiative | Framework: The Rainbow Road
+Current focus: Real-time extraction of behavioral baselines and cognitive load analytics via Spotify Web API.
 
-### Technical Status:
-- **Core Implementation:** Deployment of SPOT10 nodes utilizing OAuth 2.0 PKCE protocols (2026 standard).
-- **System Migration:** Deprecation of legacy GitHub-based automation to facilitate transition to real-time Spotify API data synthesis.
-- **Objective:** Systematic synchronization of user-centric metadata streams and playback control interfaces.
+Technical Status:
+Core Implementation: Deployment of SPOT10 Node.js environment utilizing OAuth 2.0 protocols for secure data extraction.
 
-*Operating under The Rainbow Road.* 🛰️
+System Evolution: Transitioned from static documentation to a live API-driven engine for behavioral metadata synthesis.
+
+Objective: Systematic mapping of BPM (Beats Per Minute) and audio features to generate actionable performance insights for HR and deep-work optimization.
+
+Operating under The Rainbow Road. 🛰️
